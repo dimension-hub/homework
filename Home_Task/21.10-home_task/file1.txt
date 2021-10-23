@@ -1,4 +1,4 @@
 Hello World!
 ##########################################
-Line from user1 (from branch master)
+Line from user2 (from branch add-feature1)
 ##########################################
