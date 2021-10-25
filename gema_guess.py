@@ -1,8 +1,8 @@
 import json
 from random import randrange
 
-# added change in game_guess who Dima for Debian
-
+# added change in game_guess who user1 for Debian
+# (with branch 23.10/add-feature-user1)
 
 def record_the_results(name, password, border, total):
     point = 0
