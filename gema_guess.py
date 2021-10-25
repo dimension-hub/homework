@@ -1,6 +1,8 @@
 import json
 from random import randrange
 
+# added change in game_guess who Dima for Debian
+
 
 def record_the_results(name, password, border, total):
     point = 0
